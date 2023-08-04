@@ -26,4 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/YOU_LOST.unity
     guid: c8d8afb93b0776c46b8fa8467e0176d5
+  - enabled: 1
+    path: Assets/Scenes/YOU_LOST2.unity
+    guid: 1010bb6bcc4c89940a49fd6b347a19a8
+  - enabled: 1
+    path: Assets/Scenes/YOU_LOST3.unity
+    guid: c077926135e94254a9a1e0eb53815f8b
   m_configObjects: {}
